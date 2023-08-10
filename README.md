@@ -11,5 +11,12 @@ So far:
 - [x] Button 
 
 
+## Run locally:
 
+```
+yarn
+```
 
+```
+yarn storybook
+```
